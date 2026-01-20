@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/msniranjan18/chit-chat/pkg/common/jwt"
+	"github.com/msniranjan18/common/jwt"
 )
 
 type contextKey string
